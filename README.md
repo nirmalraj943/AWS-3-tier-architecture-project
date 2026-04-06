@@ -11,7 +11,7 @@ The architecture follows industry best practices by separating the application i
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](./AWS 3-tier Architecture.png)
+![Architecture Diagram](./Architecture.png)
 
 ---
 
