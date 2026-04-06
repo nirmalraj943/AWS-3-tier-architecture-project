@@ -107,17 +107,3 @@ The architecture follows industry best practices by separating the application i
 - Implementing best security practices  
 
 ---
-
-## 🔗 GitHub Repository
-You are already here 😄
-
----
-
-## 📬 Contact
-**Name:** Nirmalraj S  
-**LinkedIn:** (add your LinkedIn link)  
-**Email:** (optional)
-
----
-
-⭐ If you like this project, consider giving it a star!
