@@ -72,22 +72,22 @@ The architecture follows industry best practices by separating the application i
 
 ---
 
-## 📸 Screenshots
+## 📸 Implementation Details
 
 ### 🔹 VPC Setup
-![VPC](add-image-link)
+Created a custom VPC with public and private subnets across multiple availability zones.
 
 ### 🔹 EC2 Instances
-![EC2](add-image-link)
+Launched EC2 instances for web and application layers with proper security group configurations.
 
 ### 🔹 Load Balancer
-![ALB](add-image-link)
+Configured an Application Load Balancer (ALB) to distribute incoming traffic across web servers.
 
 ### 🔹 RDS Database
-![RDS](add-image-link)
+Deployed Amazon RDS in a private subnet to ensure secure database access.
 
 ### 🔹 Application Output
-![Output](add-image-link)
+Successfully hosted a sample web application and verified traffic routing through ALB.
 
 ---
 
